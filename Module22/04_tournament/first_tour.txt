@@ -1,0 +1,7 @@
+90
+Ivanov Sergey 80
+Sergeev Petr 92
+Petrov Vasiliy 98
+Vasiliev Maxim 78
+Solixov Shuxriddin 94
+Durov Pavel 100
